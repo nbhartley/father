@@ -1,0 +1,28 @@
+body{
+	letter-spacing: 1px;
+	font-family: Helvetica;
+	text-align: center;
+
+
+}
+.title{
+	text-align: center;
+	background-image: url("images/boat.jpg");
+	font-size: 70px;
+	color: white;
+	height:700px;
+	padding: 10px;
+	margin: 0px 500px;
+	font-weight: bold;
+
+}
+.message{
+	padding:40px;
+	margin: 0px 400px;
+	line-height: 40px;
+	font-size: 20px;
+}
+.footer{
+	font-size: 50px;
+
+}
