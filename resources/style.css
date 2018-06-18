@@ -26,5 +26,8 @@ body{
 }
 .footer{
 	font-size: 50px;
+	background-color: grey;
+	height:100px;
+	border: inset 30px;
 
 }
